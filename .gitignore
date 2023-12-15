@@ -1,0 +1,5 @@
+# .gitignore
+
+desktop.ini
+
+.ipynb_checkpoints/Pisa_ranks-checkpoint.ipynb
